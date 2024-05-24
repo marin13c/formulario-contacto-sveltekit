@@ -1,0 +1,124 @@
+{
+  "servicios": [
+    {
+      "nombre": "Website Design",
+      "categorias": ["Diseño Web", "Diseño UX/UI", "Desarrollo Frontend"],
+      "descripcion": "Servicio de diseño y desarrollo de sitios web a medida para empresas y emprendedores.",
+      "precio": "$500",
+      "tiempo_entrega": "1-2 meses",
+      "disponibilidad": ["Online", "Presencial"]
+    },
+    {
+      "nombre": "UX/UI Design",
+      "categorias": ["Diseño UX/UI", "Investigación de Usuario"],
+      "descripcion": "Diseño centrado en el usuario para mejorar la experiencia de uso de aplicaciones y sitios web.",
+      "precio": "$250",
+      "tiempo_entrega": "2-4 semanas",
+      "disponibilidad": ["Online", "Presencial"]
+    },
+    {
+      "nombre": "Mobile App Design",
+      "categorias": ["Diseño de Apps", "Diseño UX/UI"],
+      "descripcion": "Diseño de interfaces de usuario para aplicaciones móviles, enfocado en la usabilidad y experiencia del usuario.",
+      "precio": "$500",
+      "tiempo_entrega": "1-2 meses",
+      "disponibilidad": ["Online", "Presencial"]
+    },
+    {
+      "nombre": "Frontend Development",
+      "categorias": ["Desarrollo Frontend", "Diseño Web"],
+      "descripcion": "Desarrollo de la parte visual y funcional de sitios web, utilizando tecnologías como HTML, CSS y JavaScript.",
+      "precio": "$250",
+      "tiempo_entrega": "1-3 meses",
+      "disponibilidad": ["Online"]
+    },
+    {
+      "nombre": "Backend Development",
+      "categorias": ["Desarrollo Backend"],
+      "descripcion": "Desarrollo de la parte lógica y funcional de sitios web y aplicaciones, utilizando tecnologías como Node.js, Python, etc.",
+      "precio": "$500",
+      "tiempo_entrega": "1-3 meses",
+      "disponibilidad": ["Online"]
+    },
+    {
+      "nombre": "Graphic Design",
+      "categorias": ["Diseño Gráfico"],
+      "descripcion": "Servicio de diseño gráfico para logotipos, tarjetas de visita, folletos y más.",
+      "precio": "$250",
+      "tiempo_entrega": "1-2 semanas",
+      "disponibilidad": ["Online"]
+    },
+    {
+      "nombre": "Motion Graphics",
+      "categorias": ["Diseño Gráfico", "Animación"],
+      "descripcion": "Creación de animaciones y gráficos en movimiento para videos, presentaciones y más.",
+      "precio": "$500",
+      "tiempo_entrega": "2-4 semanas",
+      "disponibilidad": ["Online"]
+    },
+    {
+      "nombre": "Game Development",
+      "categorias": ["Desarrollo de Juegos"],
+      "descripcion": "Desarrollo de videojuegos para diferentes plataformas, desde móviles hasta consolas de juegos.",
+      "precio": "$500",
+      "tiempo_entrega": "3-6 meses",
+      "disponibilidad": ["Online"]
+    },
+    {
+      "nombre": "E-commerce Website Development",
+      "categorias": ["Desarrollo Web", "Comercio Electrónico"],
+      "descripcion": "Diseño y desarrollo de tiendas en línea personalizadas, con funcionalidades avanzadas de comercio electrónico.",
+      "precio": "$500",
+      "tiempo_entrega": "2-3 meses",
+      "disponibilidad": ["Online"]
+    },
+    {
+      "nombre": "UI Design Consultation",
+      "categorias": ["Diseño UX/UI", "Consultoría"],
+      "descripcion": "Consultoría especializada en diseño de interfaces de usuario para optimizar la experiencia del usuario.",
+      "precio": "$250",
+      "tiempo_entrega": "Varía",
+      "disponibilidad": ["Online", "Presencial"]
+    },
+    {
+      "nombre": "Software Prototyping",
+      "categorias": ["Prototipado de Software", "Desarrollo Ágil"],
+      "descripcion": "Desarrollo rápido de prototipos de software para validar conceptos y funcionalidades.",
+      "precio": "$250",
+      "tiempo_entrega": "1-2 semanas",
+      "disponibilidad": ["Online"]
+    },
+    {
+      "nombre": "Responsive Web Design",
+      "categorias": ["Diseño Web", "Desarrollo Frontend"],
+      "descripcion": "Diseño de sitios web que se adaptan a diferentes dispositivos y tamaños de pantalla.",
+      "precio": "$250",
+      "tiempo_entrega": "1-2 meses",
+      "disponibilidad": ["Online"]
+    },
+    {
+      "nombre": "User Testing",
+      "categorias": ["Investigación de Usuario", "Diseño UX/UI"],
+      "descripcion": "Evaluación de la usabilidad de productos digitales mediante pruebas con usuarios reales.",
+      "precio": "$500",
+      "tiempo_entrega": "Varía",
+      "disponibilidad": ["Online", "Presencial"]
+    },
+    {
+      "nombre": "SEO Optimization",
+      "categorias": ["Optimización de Motores de Búsqueda", "Marketing Digital"],
+      "descripcion": "Optimización de sitios web para mejorar su visibilidad en los resultados de búsqueda orgánica.",
+      "precio": "$250",
+      "tiempo_entrega": "1-2 meses",
+      "disponibilidad": ["Online"]
+    },
+    {
+      "nombre": "Cybersecurity Consulting",
+      "categorias": ["Seguridad Informática", "Consultoría"],
+      "descripcion": "Consultoría especializada en la implementación de medidas de seguridad para proteger sistemas y datos.",
+      "precio": "$500",
+      "tiempo_entrega": "Varía",
+      "disponibilidad": ["Online", "Presencial"]
+    }
+  ]
+}

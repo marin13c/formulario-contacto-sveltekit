@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-bb-casual-pro-medium {
+    font-family: "BB Casual Pro Medium", sans-serif;
+  }
+
+  .text-gradient {
+    background: linear-gradient(0deg, #0683ff, rgba(0, 128, 255, 0.84)),
+      linear-gradient(270deg, #0683ff 14.19%, #065aaf 100.84%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent !important;
+  }
+
+  .custom-button {
+    @apply bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none  w-full;
+  }
+
+  .inputs{
+    @apply appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none;
+  }
+  
+  .mainform{
+    @apply container mx-auto mt-4 flex flex-col items-center px-4 sm:px-6 lg:px-8;
+  }
+
+  .form {
+    @apply shadow-md rounded px-4 sm:px-10 pt-6 pb-8 mb-4 w-full sm:w-3/4 lg:w-1/2 mx-auto;
+  }
+
+  .labelform{
+    @apply block text-white text-sm font-bold mb-2
+  }
