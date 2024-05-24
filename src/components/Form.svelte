@@ -2,7 +2,7 @@
 // @ts-nocheck
 
   import { onMount } from "svelte";
-  import servicesData from "../../JSONFRONTEND.json";
+  import servicesData from "../JSONFRONTEND.json";
   import Modal from './Modal.svelte'; // Importa el componente de modal
   
   let registers = {
